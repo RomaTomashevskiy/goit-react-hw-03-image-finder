@@ -93,8 +93,6 @@ class App extends Component{
     });
   }
 
-
-
     render() {
       const { images, guery, showModal, largeImage  , status} = this.state;
       
